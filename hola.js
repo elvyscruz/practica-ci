@@ -1,6 +1,6 @@
 // holaMundo.js
 function holaMundo() {
-    return "Hola, Mondo";
+    return "Hola, Mundo";
 }
 
 console.log(holaMundo());
